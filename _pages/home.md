@@ -6,18 +6,17 @@ sitemap: false
 permalink: /
 ---
 
-
+<br>
+<br>
 
 ***More information about my research work coming soon***. 
-
+<br>
 
 Currently I am a Research Fellow at the University of Texas at Austin associated with the Barrick Lab (Prof. Jeffrey Barrick).
-
-
-
+<br>
 
 ## WEBPAGE UNDER CONSTRUCTION
-
+<br><br><br>
 
 
 
