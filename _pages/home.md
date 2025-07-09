@@ -5,8 +5,8 @@ excerpt: "Lucio Navarro at UT Austin &rarr; UT."
 sitemap: false
 permalink: /
 ---
-<figure><img src="{{ site.url }}{{ site.baseurl }}images/logopic/insect_molecular_icon.png" width="5%" style="float: left;"></figure>
 <br>
+<figure><img src="{{ site.url }}{{ site.baseurl }}images/logopic/insect_molecular_icon.png" width="15%" style="float: left;">
 
 ***More information about my research work coming soon***. 
 <br>
