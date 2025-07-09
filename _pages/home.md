@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <br>
-<figure><img src="{{ site.url }}{{ site.baseurl }}images/logopic/insect_molecular_icon.png" width="15%" style="float: left;">
+<figure><img src="{{ site.url }}{{ site.baseurl }}images/logopic/insect_molecular_icon.png" width="15%" style="float:left; margin-right:10px;">
 
 ***More information about my research work coming soon***. 
 <br>
