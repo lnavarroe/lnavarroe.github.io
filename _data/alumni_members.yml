@@ -1,5 +1,5 @@
 - name: Someone Else
-  photo: verdoes.jpg
+  photo: id_pic_icon.jpg
   duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
   info: Fine mechanical engineer associated with the FMD working in our group
   email: verdoes@fmd.physics.leidenuniv.nl
@@ -10,7 +10,7 @@
   education4:
 
 - name: Another Person
-  photo: irene.jpg
+  photo: id_pic_icon.jpg
   info: PhD student
   duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
   email: Battisti@Physics.LeidenUniv.nl
@@ -20,7 +20,7 @@
   education3: PhD Leiden University, prize for reseacher of the year at the Science faculty
 
 - name: Perhaps You
-  photo: Doohee2.jpg
+  photo: id_pic_icon.jpg
   info: Postdoc
   duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
   email: cho@physics.leidenuniv.nl
