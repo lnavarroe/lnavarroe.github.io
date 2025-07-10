@@ -1,5 +1,5 @@
 - name: Just Me
-  photo: Milan1.jpg
+  photo: id_pic_icon.jpg
   info: Associate professor, started Jan 2015
   email: fake.account@gmail.com
   number_educ: 5
@@ -10,7 +10,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
 - name: Another Guy
-  photo: Jiasen.png
+  photo: id_pic_icon.jpg
   info: Leader Leiden Branch, started Oct 2020
   email: fake@physics.leidenuniv.nl
   number_educ: 2
@@ -18,7 +18,7 @@
   education2: BSc Jilin University
 
 - name: Someone Else
-  photo: Sato.jpeg
+  photo: id_pic_icon.jpg
   info: Postdoc, started September 2023
   email: fake@postech.ac.kr
   number_educ: 2
@@ -26,7 +26,7 @@
   education2: Master, University of Tokyo
 
 - name: Maybe You
-  photo: Thomas.jpg
+  photo: id_pic_icon.jpg
   info: Akademischer Rat, since November 2023
   email: fake@physics.leidenuniv.nl
   number_educ: 2
