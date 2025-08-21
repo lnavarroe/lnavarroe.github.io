@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "Lucio's personal website - Home"
 layout: homelay
 excerpt: "Lucio Navarro at UT Austin &rarr; UT."
 sitemap: false
