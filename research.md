@@ -1,29 +1,24 @@
 ---
-title: "Allan Lab - Research"
+title: "Lucio Navarro Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Lucio Navarro Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Information about reserach goes here.
+Here are some research topics we currently work on:
 
-Here are some themes and techniques that we currently work on:
-
-**PCR.** We run PCR every day.
+**Insect Genomics.** Genome and transcriptome analysis.
 
 
-**Biol water.** Here explanation about to boil water.
+**Insect Microbiomes.** Diversity of insect-associated microbiomes and their role in insect-plant interactions.
 
 
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
+**Symbiont Engineering.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/aSTMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
 Here more information about tools and instruments.
 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
 
 **More projects.**
 Include descriptions about more projects here
