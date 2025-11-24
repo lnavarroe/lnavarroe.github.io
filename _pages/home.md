@@ -11,7 +11,7 @@ permalink: /
 ***More information about my research work coming soon***. 
 <br>
 
-Currently I am a Research Assistant Professorat the Michigan State University associated with the Jeff Barrick's Lab.
+Currently I am a Research Assistant Professor at Michigan State University associated with Jeff Barrick's Lab.
 <br><br>
 
 ## WEBPAGE UNDER CONSTRUCTION
