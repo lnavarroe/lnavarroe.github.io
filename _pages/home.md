@@ -1,7 +1,7 @@
 ---
 title: "Lucio's personal website - Home"
 layout: homelay
-excerpt: "Lucio Navarro at UT Austin &rarr; UT."
+excerpt: "Lucio Navarro at MSU East Lansing &rarr; MSU."
 sitemap: false
 permalink: /
 ---
@@ -11,7 +11,7 @@ permalink: /
 ***More information about my research work coming soon***. 
 <br>
 
-Currently I am a Research Fellow at the University of Texas at Austin associated with the Barrick Lab (Prof. Jeffrey Barrick).
+Currently I am a Research Assistant Professorat the Michigan State University associated with the Jeff Barrick's Lab.
 <br><br>
 
 ## WEBPAGE UNDER CONSTRUCTION
