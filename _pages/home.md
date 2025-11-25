@@ -22,6 +22,6 @@ Currently I am a Research Assistant Professor at Michigan State University assoc
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UT.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MBS.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1UT.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1MBS.png" style="width: 140px">
 </figure>
