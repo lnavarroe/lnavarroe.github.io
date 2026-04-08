@@ -1,18 +1,20 @@
 ---
 title: "Lucio's personal website - Home"
 layout: homelay
-excerpt: "Lucio Navarro at MSU East Lansing &rarr; MSU."
+excerpt: "Lucio Navarro at Cenicafe &rarr; Cenicafe."
 sitemap: false
 permalink: /
 ---
 <br>
 <figure><img src="{{ site.url }}{{ site.baseurl }}images/logopic/insect_molecular_icon.png" width="15%" style="float:left; margin-right:10px;">
 
-***More information about my research work coming soon***. 
+***Insect Genomics and Microbiomics*** 
 <br>
 
-Currently I am a Research Assistant Professor at Michigan State University associated with Jeff Barrick's Lab.
+Currently, I am a Research Scientist at the Colombia National Coffee Research Center (Cenicafé). My research centers on genome biology, gene function, and microbiome dynamics, with a particular emphasis on engineering insect-associated symbionts for applications in agricultural systems.
 <br><br>
+
+***Most recent research projects *** 
 
 ## WEBPAGE UNDER CONSTRUCTION
 <br><br><br>
