@@ -24,6 +24,6 @@ Currently, I am a Research Scientist at the Colombia National Coffee Research Ce
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1UT.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/main_coffee_pests.png" style="width: 300px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1MBS.png" style="width: 140px">
 </figure>
