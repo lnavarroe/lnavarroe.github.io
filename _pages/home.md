@@ -11,7 +11,7 @@ permalink: /
 ***Insect Genomics and Microbiomics*** 
 <br>
 
-Currently, I am a Research Scientist at the Colombia National Coffee Research Center (Cenicafé). My research centers on genome biology, gene function, and microbiome dynamics, with a particular emphasis on engineering insect-associated symbionts for applications in agricultural systems.
+Currently, I am a Research Scientist at the Colombia National Coffee Research Center (Cenicafé). My research centers on insect genome biology, gene function, and microbiome dynamics, with a particular emphasis on engineering insect-associated symbionts for applications in agricultural systems.
 <br><br>
 
 ***Most recent research projects*** 
