@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 <br>
-<figure><img src="{{ site.url }}{{ site.baseurl }}images/logopic/insect_molecular_icon-2.png" width="15%" style="float:left; margin-right:10px;">
+<figure><img src="{{ site.url }}{{ site.baseurl }}images/logopic/insect_molecular_icon-2.png" width="25%" style="float:left; margin-right:10px;">
 
 ***Insect Genomics and Microbiomics*** 
 <br>
