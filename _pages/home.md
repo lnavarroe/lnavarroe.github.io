@@ -1,7 +1,7 @@
 ---
-title: "Lucio's personal website - Home"
+title: "InsectOmics Lab - Home"
 layout: homelay
-excerpt: "Lucio Navarro at Cenicafe &rarr; Cenicafe."
+excerpt: "InsectOmics Lab at Cenicafe &rarr; Cenicafe."
 sitemap: false
 permalink: /
 ---
@@ -11,7 +11,7 @@ permalink: /
 ***Insect Genomics and Microbiomics*** 
 <br>
 
-Currently, I am a Research Scientist at the Colombia National Coffee Research Center (Cenicafé). My research centers on insect genome biology, gene function, and microbiome dynamics, with a particular emphasis on engineering insect-associated symbionts for applications in agricultural systems.
+Our research revolves around insect genomics and microbiome engineering. Currently, our research focuses on the coffee agrosystem and coffee-associated arthropods, including beneficial and pest insect species. One particularly interesting topic involves engineering insect-associated symbionts for applications in agricultural systems.
 <br><br>
 
 ***Most recent research projects*** 
