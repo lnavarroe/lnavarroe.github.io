@@ -14,7 +14,14 @@ permalink: /
 Our research revolves around insect genomics and microbiome engineering. Currently, our research focuses on the coffee agrosystem and coffee-associated arthropods, including beneficial and pest insect species. One particularly interesting topic involves engineering insect-associated symbionts for applications in agricultural systems.
 <br><br>
 
-***Most recent research projects*** 
+***Recent research projects*** 
+<br><br>
+
+**Coffee Berry Borer (CBB) genomics:**
+<br>
+The coffee berry borer, <i>Hypothenemus hampei</i> (Coleoptera: Curculionidae), is the most important coffee pest because it directly attacks the coffee bean. 
+
+<br><br>
 
 ## WEBPAGE UNDER CONSTRUCTION
 <br><br><br>
@@ -25,5 +32,4 @@ Our research revolves around insect genomics and microbiome engineering. Current
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/main_coffee_pests_v2.png" style="width: 500px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/1MBS.png" style="width: 140px">
 </figure>
