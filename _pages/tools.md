@@ -11,4 +11,6 @@ permalink: /tools
 **Genomics**
 
 <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_041296355.1/">Coffee Berry Borer (CBB) Genome Reference at NCBI</a>
+<br>
+<a href="https://www.ncbi.nlm.nih.gov/gdv/browser/genome/?id=GCA_041296355.1">CBB Genome Browser at NCBI</a>
 
