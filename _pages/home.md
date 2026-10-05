@@ -15,7 +15,7 @@ Our research revolves around insect genomics and microbiome engineering. We focu
 <br><br>
 
 **Recent research projects** 
-<br><br>
+<br>
 
 ***Coffee Berry Borer (CBB) genomics:***
 <br>
